@@ -1,0 +1,5 @@
+_ Upgrage history package
+    _ Upgrade react-router-dom package
+        X Use react-router 5.1 recommendations
+        X Use createRoot instead of ReactDOM.render
+        _ Use navigate instead of history
